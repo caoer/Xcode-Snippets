@@ -1,9 +1,11 @@
 // UITableViewDelegate
 // Placeholders for the core table view delegate methods
-// 
-// Platform: iOS
+//
+// IDECodeSnippetIdentifier: 8494082A-824E-4D95-97AE-18DD3D191625
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Class Implementation
+// Platform: iOS
 
 #pragma mark - UITableViewDelegate
 
