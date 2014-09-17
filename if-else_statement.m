@@ -8,6 +8,7 @@
 // IDECodeSnippetVersion: 1
 if (<#condition#>) {
     <#statements#>
-} else {
+} 
+else {
     <#statements#>
 }
