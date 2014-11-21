@@ -1,4 +1,4 @@
-// ELC Property declaration - retain
+// ELC Property declaration - strong
 // 
 //
 // IDECodeSnippetCompletionPrefix: @propertys
