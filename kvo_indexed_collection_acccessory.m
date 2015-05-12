@@ -7,12 +7,12 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-- (NSUInteger)countOf<#CustomItem#>;
-- (void)get<#CustomItem#>:(id *)buffer range:(NSRange)inRange;
-- (id)objectIn<#CustomItem#>AtIndex:(NSUInteger)idx;
-- (void)insertObject:(id)anObject in<#CustomItem#>AtIndex:(NSUInteger)idx;
-- (void)insert<#CustomItem#>:(NSArray *)<#CustomItem#>Array atIndexes:(NSIndexSet *)indexes;
-- (void)removeObjectFrom<#CustomItem#>AtIndex:(NSUInteger)idx;
-- (void)remove<#CustomItem#>AtIndexes:(NSIndexSet *)indexes;
-- (void)replaceObjectIn<#CustomItem#>AtIndex:(NSUInteger)idx withObject:(id)anObject;
-- (void)replace<#CustomItem#>AtIndexes:(NSIndexSet *)indexes with<#CustomItem#>:(NSArray *)<#CustomItem#>Array;
+- (NSUInteger)countOfSearchToReplaceObject;
+- (void)getSearchToReplaceObject:(SearchToReplaceObject *)buffer range:(NSRange)inRange;
+- (id)objectInSearchToReplaceObjectAtIndex:(NSUInteger)idx;
+- (void)insertObject:(SearchToReplaceObject *)anObject inSearchToReplaceObjectAtIndex:(NSUInteger)idx;
+- (void)insertSearchToReplaceObject:(NSArray *)SearchToReplaceObjectArray atIndexes:(NSIndexSet *)indexes;
+- (void)removeObjectFromSearchToReplaceObjectAtIndex:(NSUInteger)idx;
+- (void)removeSearchToReplaceObjectAtIndexes:(NSIndexSet *)indexes;
+- (void)replaceObjectInSearchToReplaceObjectAtIndex:(NSUInteger)idx withObject:(SearchToReplaceObject *)anObject;
+- (void)replaceSearchToReplaceObjectAtIndexes:(NSIndexSet *)indexes withSearchToReplaceObject:(NSArray *)lowerSearchToReplaceObjectArray;
