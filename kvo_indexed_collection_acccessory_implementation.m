@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 1F847E88-DEB4-47F0-9003-9A37E41673B5
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 #pragma mark - SearchToReplaceObject Accessor
 
 - (void)addToSearchToReplace:(SearchToReplaceObject *)searchToReplaceObject {
