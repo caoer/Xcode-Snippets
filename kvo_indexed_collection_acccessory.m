@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 6D9D3C1D-BC75-4DB9-9B05-7B4CF300A634
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 - (NSUInteger)countOf<# CustomItem #>;
 - (id)objectIn<# CustomItem #>AtIndex:(NSUInteger)idx;
 - (void)insertObject:(id)anObject in<# CustomItem #>AtIndex:(NSUInteger)idx;
