@@ -1,6 +1,7 @@
 // KVO indexed collection acccessory implementation
 // 
 //
+// IDECodeSnippetCompletionPrefix: kvo-indexed-accessor
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 1F847E88-DEB4-47F0-9003-9A37E41673B5
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
