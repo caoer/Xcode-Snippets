@@ -7,6 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+#pragma mark - SearchToReplaceObject Accessor
 - (NSUInteger)countOfSearchToReplaceObject;
 - (void)getSearchToReplaceObject:(SearchToReplaceObject *)buffer range:(NSRange)inRange;
 - (id)objectInSearchToReplaceObjectAtIndex:(NSUInteger)idx;
