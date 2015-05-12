@@ -1,4 +1,4 @@
-// KVO indexed collection acccessory
+// KVO indexed collection acccessory Interface
 // 
 //
 // IDECodeSnippetCompletionPrefix: kvo-indexed-property
