@@ -1,5 +1,5 @@
 // #pragma mark - View Life Cycle
-// 
+// #viewlifecycle
 //
 // IDECodeSnippetCompletionPrefix: #viewlifecycle
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
