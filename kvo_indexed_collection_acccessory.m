@@ -7,11 +7,12 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-- (NSUInteger)countOf<# CustomItem #>;
-- (id)objectIn<# CustomItem #>AtIndex:(NSUInteger)idx;
-- (void)insertObject:(id)anObject in<# CustomItem #>AtIndex:(NSUInteger)idx;
-- (void)insert<# CustomItem #>:(NSArray *)<# CustomItem #>Array atIndexes:(NSIndexSet *)indexes;
-- (void)removeObjectFrom<# CustomItem #>AtIndex:(NSUInteger)idx;
-- (void)remove<# CustomItem #>AtIndexes:(NSIndexSet *)indexes;
-- (void)replaceObjectIn<# CustomItem #>AtIndex:(NSUInteger)idx withObject:(id)anObject;
-- (void)replace<# CustomItem #>AtIndexes:(NSIndexSet *)indexes with<# CustomItem #>:(NSArray *)<# CustomItem #>Array;
+- (NSUInteger)countOf<#CustomItem#>;
+- (void)get<#CustomItem#>:(id *)buffer range:(NSRange)inRange;
+- (id)objectIn<#CustomItem#>AtIndex:(NSUInteger)idx;
+- (void)insertObject:(id)anObject in<#CustomItem#>AtIndex:(NSUInteger)idx;
+- (void)insert<#CustomItem#>:(NSArray *)<#CustomItem#>Array atIndexes:(NSIndexSet *)indexes;
+- (void)removeObjectFrom<#CustomItem#>AtIndex:(NSUInteger)idx;
+- (void)remove<#CustomItem#>AtIndexes:(NSIndexSet *)indexes;
+- (void)replaceObjectIn<#CustomItem#>AtIndex:(NSUInteger)idx withObject:(id)anObject;
+- (void)replace<#CustomItem#>AtIndexes:(NSIndexSet *)indexes with<#CustomItem#>:(NSArray *)<#CustomItem#>Array;
