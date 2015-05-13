@@ -8,5 +8,5 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
     self.builder.reloadBlock = ^(TMTableViewBuilder *builder) {
-        <#eidt#>
+        <#edit#>
     };
