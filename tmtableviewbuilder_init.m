@@ -8,3 +8,4 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
     self.builder = [[TMTableViewBuilder alloc] initWithTableView:self.tableView];
+<#
