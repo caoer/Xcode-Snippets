@@ -9,5 +9,5 @@
 // IDECodeSnippetVersion: 0
 - (void)viewDidLoad {
     [super viewDidLoad];
-    <#
+    <# edit #>
 }
