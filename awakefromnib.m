@@ -9,5 +9,5 @@
 // IDECodeSnippetVersion: 0
 - (void)awakeFromNib {
     [super awakeFromNib];
-    <#
+    <#edit#>
 }
