@@ -9,4 +9,5 @@
 // IDECodeSnippetVersion: 0
 - (void)updateAppearance {
     [super updateAppearance];
-    <#e
+    <#edit#>
+}
