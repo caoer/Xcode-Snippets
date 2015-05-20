@@ -8,4 +8,5 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 - (void)updateAppearance {
-    [super updateAppearance];k
+    [super updateAppearance];
+    <#e
