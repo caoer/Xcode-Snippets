@@ -10,7 +10,7 @@
 - (instancetype)initWithFrame:(CGRect)frame {
     self = [super initWithFrame:frame];
     if (self) {
-        <# edi
+        <# edit #>
     }
     return self;
 }
