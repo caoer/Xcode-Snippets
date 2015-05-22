@@ -1,6 +1,7 @@
 // init-with-fram- CocoaTouch
 // 
 //
+// IDECodeSnippetCompletionPrefix: initwithframe
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: F0E0A8FD-9E58-41FA-9FCC-305AF9CE504E
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
@@ -9,7 +10,7 @@
 - (instancetype)initWithFrame:(CGRect)frame {
     self = [super initWithFrame:frame];
     if (self) {
-        [self init_SVRSegmentedControl];
+        <# edi
     }
     return self;
 }
